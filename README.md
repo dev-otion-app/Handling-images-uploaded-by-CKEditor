@@ -1,4 +1,4 @@
-This repository demonstrates what is explained in https://dev-otion.com/en/entry/
+This repository demonstrates what is explained in https://dev-otion.com/en/entry/handling-images-uploaded-by-ckeditor
 
 In order to install the minimal requirements to use this example, create a virutial environment with Python 3.11.4 and run `pip install -r requirements.txt`
 
